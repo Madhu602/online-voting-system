@@ -15,7 +15,7 @@ Programming languages used
 - CSS3
 - PHP
 - JAVASCRIPT
-- Getting Started
+## Getting Started
 - online voting system uses a number of open source projects to work properly:
 
 - HTML, the Hypertext Markup Language, is a standard for describing the structure and presentation of information via the Internet. Web developers use HTML keywords to instruct the Web browser application to format and display the content of Web pages.
